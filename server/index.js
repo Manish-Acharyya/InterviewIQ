@@ -25,7 +25,7 @@ app.use(cookieParser());
 // CORS
 app.use(
   cors({
-    origin: "http://localhost:5173",
+    origin: "https://interviewiq-client-8sqy.onrender.com",
     credentials: true,
   }),
 );
