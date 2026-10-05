@@ -4,7 +4,8 @@ InterviewIQ.AI is an AI-powered mock interview platform built with the MERN Stac
 The project demonstrates practical experience with full-stack development, REST APIs, authentication, AI integration, database management, and deployment.
 
 ## 🚀 Features
-👤 User Authentication
+
+## 👤 User Authentication
 Register & Login
 JWT-based authentication
 Secure HTTP-only cookies
