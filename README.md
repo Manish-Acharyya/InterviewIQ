@@ -46,41 +46,41 @@ Resume text extraction
 Resume-based technical questions
 
 ## 🛠️ Tech Stack
-Frontend
-React.js
-JavaScript (ES6+)
-HTML5
-CSS3
-Tailwind CSS
-React Router
-Axios
-Context API
-Backend
-Node.js
-Express.js
-REST API
-JWT Authentication
-Cookie-based Authentication
-Multer
-Nodemailer
-Database
-MongoDB
-Mongoose
-MongoDB Atlas
-Authentication
-JWT
-HTTP-only Cookies
-Google OAuth 2.0
-AI & APIs
-AI API Integration
-Google OAuth API
-Speech Recognition API
-Payment
-Razorpay
-Tools & Deployment
-Git
-GitHub
-Postman
-Docker
-Render
+•Frontend
+•React.js
+•JavaScript (ES6+)
+•HTML5
+•CSS3
+•Tailwind CSS
+•React Router
+•Axios
+•Context API
+•Backend
+•Node.js
+•Express.js
+•REST API
+•JWT Authentication
+•Cookie-based Authentication
+•Multer
+•Nodemailer
+•Database
+•MongoDB
+•Mongoose
+•MongoDB Atlas
+•Authentication
+•JWT
+•HTTP-only Cookies
+•Google OAuth 2.0
+•AI & APIs
+•AI API Integration
+•Google OAuth API
+•Speech Recognition API
+•Payment
+•Razorpay
+•Tools & Deployment
+•Git
+•GitHub
+•Postman
+•Docker
+•Render
 VS Code
